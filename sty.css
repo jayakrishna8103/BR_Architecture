@@ -1,0 +1,199 @@
+.container {
+    display: flex;
+    width: 1440px;
+    height: 20px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 0px;
+    padding: 10px;
+    position: relative;
+}
+
+.item-1 {
+    margin-left: 1150px;
+    display: inline-block;
+    display: flex;
+    gap: 20px;
+
+}
+
+.container-2 {
+    width: 1505px;
+    height: 750px;
+    position: relative;
+    margin-left: 0%;
+
+}
+
+.container-2 img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: block;
+    top: 10px;
+}
+
+.container-2 h1 {
+    position: absolute;
+    display: flex;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    top: 330px;
+    left: 650px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 30px;
+    gap: 10px;
+    height: 30px;
+    border-radius: 2px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-2 h2 {
+    position: absolute;
+    display: inline-block;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    ;
+    top: 330px;
+    left: 710px;
+    font-size: 30px;
+    color: white;
+    width: 15px;
+    gap: 10px;
+    height: 10px;
+}
+.item{
+    display: flex;
+    margin: 15px;
+    height: 25px;;
+    margin-left: 45px;
+}
+.container-3 {
+    width: 1420px; 
+    position: relative;
+    margin-left: 3%;
+    margin-top: 50px;
+    padding-bottom: 15px;
+}
+
+.house {
+  position: relative;
+  display: inline-block;
+  width:24%; 
+}
+
+.house img {
+  width: 335px;
+  height: auto;
+  padding-top: 10px;
+  display: inline-block;
+}
+
+.label {
+  position: absolute;
+  display: inline-block;
+  top: 10px;
+  left: 0px;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  font-family: 'Times New Roman';
+  font-size: 14px;
+  font-weight: bold;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.container-4 {
+    width: 1350px;
+    height: 50px;
+    position: relative;
+    margin-left: 3%;
+    margin-top: 50px;
+    padding-bottom: 15px;
+    font-size: 16.5px;
+    font-family: sans-serif;
+}
+.container-5{
+ width: 1420px; 
+    position: relative;
+    margin-left: 3%;
+    margin-top: 50px;
+    padding-bottom: 15px;
+}
+.celebrity {
+  position: relative;
+  display: inline-block;
+  width:24%; 
+}
+.container-5 img {
+  width: 335px;
+  height: auto;
+  padding-top: 10px;
+  display: inline-block;
+}
+.container-5 h4{
+    display: inline-block;
+    width: 335px;
+    height: 30px;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    background-color:rgb(223, 217, 217);
+}
+.container-6{
+    width: 1350px;
+    height: 300px;
+    position: relative;
+    margin-left: 3%;
+    margin-top: 50px;
+    padding-bottom: 15px;
+    font-size: 16.5px;
+    font-family: sans-serif;
+}
+
+.container-6 form input{
+    display: block;
+    width: 1350px;
+    height: 10px;
+    position: relative;
+    padding-top: 10px;;
+    padding-bottom: 10px;
+    font-size: 16.5px;
+    font-family: sans-serif;
+}
+.container-6 form input[type="submit"] {
+    display: block;
+    width:150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.container-7{
+    width: 1350px;
+    height: 750px;
+    position: relative;
+    margin-left:3%;
+}
+.container-7 img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: block;
+}
+.container-8{
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
